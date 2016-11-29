@@ -1,0 +1,36 @@
+h1 {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 40px;
+	color: white;
+	background-color: grey;
+}
+
+h2 {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 40px;
+	color: grey;
+}
+
+ul {
+ color: darkgrey;
+}
+
+button {
+	background-color: yellow;
+	padding: 20px 40px 20px;
+	border: 2px solid black;
+	display: inline-block;
+	border-radius: 20%;
+}
+
+p {
+ font-family: helvetica, arial, sans-serif;
+ font-size: 20px;
+ color: grey;
+}
+
+blockquote {
+	text-align: center;
+}
+
+
