@@ -1,3 +1,43 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction:column;
+}
+
+header {
+  background: lightgrey;
+  width: 100%;
+}
+
+#main {
+  background: beige;
+  width: 100%;
+}
+
+#buy {
+	padding: 20px;
+	background: beige;
+  width: 100%;
+}
+
+#blockquote {
+  background: grey;
+  width: 100%;
+}
+
+#social {
+
+	background: grey;
+  width: 100%;
+
+}
+
+footer {
+  background: beige;
+  width: 100%;
+}
+
 h1 {
 	font-family: helvetica, arial, sans-serif;
 	font-size: 40px;
@@ -8,7 +48,7 @@ h1 {
 h2 {
 	font-family: helvetica, arial, sans-serif;
 	font-size: 40px;
-	color: grey;
+	color: black;
 }
 
 ul {
@@ -19,14 +59,13 @@ button {
 	background-color: yellow;
 	padding: 20px 40px 20px;
 	border: 2px solid black;
-	display: inline-block;
 	border-radius: 20%;
 }
 
 p {
  font-family: helvetica, arial, sans-serif;
  font-size: 20px;
- color: grey;
+ color: black;
 }
 
 blockquote {
