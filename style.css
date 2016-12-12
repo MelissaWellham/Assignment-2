@@ -11,21 +11,21 @@ body {
   flex-direction: column;
 }
 
-header {
+#container header {
   background-image: url("header_bg.jpg");
   height: 400px;
   text-align: center;
   padding: 50px;
 }
 
-nav {
+#container nav {
   text-align: left;
   font-weight: 800;
   font-size: 24px;
   color: white;
 }
 
-button {
+#container button {
   font-weight: 800;
   font-size: 14px;
   background-color: #f9e42e;
@@ -126,7 +126,7 @@ button {
     display: inline;
 }
 
-footer {
+#container footer {
   font-weight: 600;
   font-size: 9px;
   color: #606161;
